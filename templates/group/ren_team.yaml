@@ -1,14 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: Product team
+  name: Renewals team
   description: The infra unit
 spec:
   type: infra-unit
   profile:
-    displayName: Product team
-    email: Product_team@example.com
-    picture: https://example.com/groups/bu-Product_team.jpeg
+    displayName: Renewals team
+    email: Renewals_team@example.com
+    picture: https://example.com/groups/bu-Renewals_team.jpeg
   parent: ops
   children: [backstage, other]
   members: [jdoe]
