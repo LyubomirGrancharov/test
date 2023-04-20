@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: java-portal
+  description: Handy tools to keep stuff working
+spec:
+  owner: Esure-Team-Name
+  domain: test
