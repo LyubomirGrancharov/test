@@ -7,8 +7,8 @@ spec:
   type: infra-unit
   profile:
     displayName: ProductTeam
-    email: Product_team@example.com
-    picture: https://example.com/groups/bu-Product_team.jpeg
+    email: ProductTeam@example.com
+    picture: https://example.com/groups/ProductTeam.jpeg
   parent: ops
   children: [backstage, other]
   members: [jdoe]

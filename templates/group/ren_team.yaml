@@ -7,8 +7,8 @@ spec:
   type: infra-unit
   profile:
     displayName: RenewalsTeam
-    email: Renewals_team@example.com
-    picture: https://example.com/groups/bu-Renewals_team.jpeg
+    email: Renewalsteam@example.com
+    picture: https://example.com/groups/Renewalsteam.jpeg
   parent: ops
   children: [backstage, other]
   members: [jdoe]
